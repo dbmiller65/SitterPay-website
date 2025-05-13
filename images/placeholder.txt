@@ -1,0 +1,11 @@
+This directory needs the following images:
+
+1. sitterpay-logo.png - The SitterPay app logo
+2. app-screenshot.png - Screenshot of the SitterPay app
+3. devices.png - Image showing the app on multiple devices
+4. app-store-badge.png - App Store download button
+5. google-play-badge.png - Google Play download button
+
+You can download standard app store badges from:
+- Apple: https://developer.apple.com/app-store/marketing/guidelines/
+- Google: https://play.google.com/intl/en_us/badges/
